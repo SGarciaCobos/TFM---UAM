@@ -26,7 +26,7 @@ PYTHON SCRIPTS:
    * *input files*: mlplasmid results grouped by isolate and plasmid/chromosome prediction (threshold posterior probability >0.7 or none) for each database of interest
 
 
-
+______
 LOCAL DATABASE for *Klebsiella pneumoniae* virulence genes:
    We created a customized local database - named vfkp - of the most relevant virulence genes for *Klebsiella pneumoniae* based on a scientific literature review and Klebsiella *spp.* curated public databases. 
  
