@@ -7,7 +7,9 @@ TÍTULO : **Análisis de genomas bacterianos, Klebsiella pneumoniae. Estrategia 
 
 AUTORA: **Silvia García Cobos**
 
-Este repositorio contiene los scripts utilizados en el trabajo de fin de máster.
+This repository has phython scripts used during this TFM. 
+
+
 
 PYTHON SCRIPTS:
 
@@ -23,7 +25,11 @@ PYTHON SCRIPTS:
 **mlplasmid07_intersect_bySample.ipynb**: This script allows the combination of results from mlplasmid software (contig prediction as plasmid or chromosome) and abricate software (presence/absence of genes of interest) results. For each database used, we can merge all genes predicted in plasmid contigs and in chromosomal contigs per isolate.
    * *input files*: mlplasmid results grouped by isolate and plasmid/chromosome prediction (threshold posterior probability >0.7 or none) for each database of interest
 
+
+
 LOCAL DATABASE for *Klebsiella pneumoniae* virulence genes:
+   We created a customized local database - named vfkp - of the most relevant virulence genes for *Klebsiella pneumoniae* based on a scientific literature review and Klebsiella *spp.* curated public databases. 
+ 
 
 
 
