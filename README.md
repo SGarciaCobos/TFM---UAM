@@ -27,8 +27,8 @@ PYTHON SCRIPTS:
 
 
 ______
-LOCAL DATABASE for *Klebsiella pneumoniae* virulence genes:
-   We created a customized local database - named vfkp - of the most relevant virulence genes for *Klebsiella pneumoniae* based on a scientific literature review and Klebsiella *spp.* curated public databases. 
+CUSTOM DATABASE for *Klebsiella pneumoniae* virulence genes:
+   We created a customized local database - named vfkp - of the most relevant virulence genes for *Klebsiella pneumoniae* based on a scientific literature review and Klebsiella *spp.* curated public databases. It is included a formatted text and multifasta file to run it using abricate software. 
  
 ____
 
