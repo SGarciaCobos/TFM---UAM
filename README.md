@@ -24,3 +24,10 @@ PYTHON SCRIPTS:
    * input files: mlplasmid results grouped by isolate and plasmid/chromosome prediction (threshold posterior probability >0.7 or none) for each database of interest
 
 
+## Software utilizado
+
+* [Python](https://www.python.org)
+* [R](https://www.r-project.org)
+* [mlplasmids](https://gitlab.com/sirarredondo/mlplasmids)
+* [abricate](https://github.com/tseemann/abricate)
+
